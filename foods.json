@@ -4108,29 +4108,29 @@
     "quality": 2.0
   },
   {
-    "name": "Celery",
+    "name": "Leek",
     "brand": "Delhaize | Botte de poireaux",
     "retailer": "Delhaize",
     "cost": 2.09,
     "packSizeG": 0.0,
     "packPriceEur": 2.09,
-    "kcal": 16.0,
-    "prot": 1.0,
+    "kcal": 61.0,
+    "prot": 2.0,
     "fat": 0.0,
-    "carbs": 3.0,
+    "carbs": 14.0,
     "quality": 1.0
   },
   {
-    "name": "Celery",
+    "name": "Leek",
     "brand": "Delhaize | Blanc | De Poireaux",
     "retailer": "Delhaize",
     "cost": 0.41,
     "packSizeG": 800.0,
     "packPriceEur": 3.29,
-    "kcal": 16.0,
-    "prot": 1.0,
+    "kcal": 61.0,
+    "prot": 2.0,
     "fat": 0.0,
-    "carbs": 3.0,
+    "carbs": 14.0,
     "quality": 1.0
   },
   {
@@ -4238,29 +4238,29 @@
     "quality": 1.0
   },
   {
-    "name": "Celery",
+    "name": "Leek",
     "brand": "Delhaize | Botte de poireaux",
     "retailer": "Delhaize",
     "cost": 2.09,
     "packSizeG": 0.0,
     "packPriceEur": 2.09,
-    "kcal": 16.0,
-    "prot": 1.0,
+    "kcal": 61.0,
+    "prot": 2.0,
     "fat": 0.0,
-    "carbs": 3.0,
+    "carbs": 14.0,
     "quality": 1.0
   },
   {
-    "name": "Celery",
+    "name": "Leek",
     "brand": "Delhaize | Blanc | De Poireaux",
     "retailer": "Delhaize",
     "cost": 0.41,
     "packSizeG": 800.0,
     "packPriceEur": 3.29,
-    "kcal": 16.0,
-    "prot": 1.0,
+    "kcal": 61.0,
+    "prot": 2.0,
     "fat": 0.0,
-    "carbs": 3.0,
+    "carbs": 14.0,
     "quality": 1.0
   },
   {
@@ -6038,19 +6038,6 @@
     "cost": 1.07,
     "packSizeG": 200.0,
     "packPriceEur": 2.15,
-    "kcal": 82.0,
-    "prot": 18.0,
-    "fat": 1.0,
-    "carbs": 0.0,
-    "quality": 1.0
-  },
-  {
-    "name": "Cod Fillet",
-    "brand": "Delhaize | Crumble | Cabillaud/Poireau | Eco",
-    "retailer": "Delhaize",
-    "cost": 7.15,
-    "packSizeG": 0.0,
-    "packPriceEur": 7.15,
     "kcal": 82.0,
     "prot": 18.0,
     "fat": 1.0,
@@ -27534,16 +27521,16 @@
     "quality": 1.0
   },
   {
-    "name": "Carrots",
+    "name": "Leek",
     "brand": "Delhaize | Botte de poireaux",
     "retailer": "Delhaize",
     "cost": 2.09,
     "packSizeG": 0.0,
     "packPriceEur": 2.09,
-    "kcal": 41.0,
-    "prot": 1.0,
+    "kcal": 61.0,
+    "prot": 2.0,
     "fat": 0.0,
-    "carbs": 10.0,
+    "carbs": 14.0,
     "quality": 1.0
   },
   {
@@ -35280,6 +35267,19 @@
     "fat": 35.0,
     "carbs": 4.0,
     "quality": 3.0
+  },
+  {
+    "name": "Leek",
+    "brand": "Carrefour | Extra Poireaux Émincés à la Crème Fraîche 1 kgExtra Poireaux Émincés à la Crème Fraîche 1 kg",
+    "retailer": "Carrefour",
+    "cost": 0.31,
+    "packSizeG": 1000.0,
+    "packPriceEur": 3.09,
+    "kcal": 61.0,
+    "prot": 2.0,
+    "fat": 0.0,
+    "carbs": 14.0,
+    "quality": 1.0
   },
   {
     "name": "Cream",
